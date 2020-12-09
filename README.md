@@ -10,11 +10,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Esport and Rapping😋.
  
-**Front-end**
-<img align="left" src="http://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
-<img align="left" src="http://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="http://simpleicons.org/icons/javascript.svg" alt="Javascript" height="40px" />
-<img align="left" src="http://simpleicons.org/icons/vue-dot-js.svg" alt="Vue" height="40px" />
+### Front-end
+<code><img align="left" src="http://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" /></code>
+<code><img align="left" src="http://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" /></code>
+<code><img align="left" src="http://simpleicons.org/icons/javascript.svg" alt="Javascript" height="40px" /></code>
+<code><img align="left" src="http://simpleicons.org/icons/vue-dot-js.svg" alt="Vue" height="40px" /></code>
 <br />
 
 **Back-end**

@@ -8,7 +8,9 @@
 - 📚 Longlife learner and also a daydreamer(KBR3)
 - 👯 I’m looking to collaborate with other people
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Esport and Rapping😋.
+- 🌱 Competitive Programming with C++ is fun🕹 but challenge🏆
+- ⚡ Fun fact: I love Esport/Gaming and Rapping😋.
+
  
 ## Front-end
 <img align="left" src="http://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />

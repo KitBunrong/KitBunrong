@@ -19,7 +19,6 @@
 <br />
 
 ## Back-end
-<img align="left" src="http://simpleicons.org/icons/node-dot-js.svg" alt="Node" height="40px" />
 <img align="left" src="http://simpleicons.org/icons/go.svg" alt="Go" height="40px" />
 <img align="left" src="http://simpleicons.org/icons/django.svg" alt="Django" height="40px" />
 <br />

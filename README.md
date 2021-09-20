@@ -2,14 +2,14 @@
 
 ## I am ...
 
-- 🎓 A Student at Kirirom Institute of Technology(KIT)
+- 🎓 A Student at (KIT)
 - 🔭 Currently working on related Fronted Project
 - 👨‍💻 Junior software developer currently improving my `C++`
-- 📚 Longlife learner and also a daydreamer(KBR3)
+- 📚 Longlife learner and also a daydreamer
 - 👯 I’m looking to collaborate with other people
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 🌱 Competitive Programming with C++ is fun🕹 but challenge🏆
-- ⚡ Fun fact: I love Esport/Gaming and Rapping😋.
+- 🌱 Competitive Programming with 🏆
+- ⚡ Fun fact: I love Rapping😋.
 
  
 ## Front-end

@@ -16,7 +16,6 @@
 <img align="left" src="http://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="http://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
 <img align="left" src="http://simpleicons.org/icons/javascript.svg" alt="Javascript" height="40px" />
-<img align="left" src="http://simpleicons.org/icons/vue-dot-js.svg" alt="Vue" height="40px" />
 <br />
 
 ## Back-end

@@ -1,4 +1,4 @@
 ### Hi there, KIT Bunrong - aka [[gary]](https://ibrong.netlify.app) 👋
  
-#### I have ... to ... what should be getting!
+#### I am shine my own star, 10^22 between 10^24.
 

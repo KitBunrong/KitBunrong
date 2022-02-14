@@ -1,4 +1,4 @@
 ### Hi there, KIT Bunrong - aka [[gary]](https://ibrong.netlify.app) 👋
  
-#### I am shine my own star, \sqrt[10]{22} between \sqrt[10]{24} 10^{22}  10<sup>22</sup>
+#### I always will shine my own star, even I'm just one of 10<sup>22</sup> and 10<sup>24</sup>.
 
